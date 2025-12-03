@@ -212,3 +212,20 @@ Dev containers runs wsl during starting vscode
 Dev contaienrs запускает wsl при старте vscode
 Отключить
 ![alt text](image.png)
+
+BuildSrc
+1. Создать обычный модуль
+2. В build.gradle.kts поместить 
+```kotlin
+plugins {  
+    `kotlin-dsl`  
+}  
+  
+repositories {  
+    mavenCentral()  
+    google()  
+}
+```
+3. переименовать модуль из проводника в buildSrc 
+4. Убрать include из settings.gradle.kts 
+5. Синхронизировать 
