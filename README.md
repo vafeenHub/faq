@@ -1,5 +1,6 @@
 # faq
 
+
 Запуск программы только с правами администратора C++ 
 https://learn.microsoft.com/en-us/cpp/build/reference/manifestuac-embeds-uac-information-in-manifest?redirectedfrom=MSDN&view=msvc-170
 
