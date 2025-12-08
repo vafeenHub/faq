@@ -322,3 +322,10 @@ repositories {
 3. переименовать модуль из проводника в buildSrc 
 4. Убрать include из settings.gradle.kts 
 5. Синхронизировать 
+
+--- 
+
+Spectable does not copy image to clipboard
+Spectable не сохраняет изображение в буфер обмена 
+
+https://askubuntu.com/questions/1205527/how-to-copy-area-screenshot-to-clipboard-on-kubuntu-18-04
