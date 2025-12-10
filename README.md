@@ -329,3 +329,9 @@ Spectable does not copy image to clipboard
 Spectable не сохраняет изображение в буфер обмена 
 
 https://askubuntu.com/questions/1205527/how-to-copy-area-screenshot-to-clipboard-on-kubuntu-18-04
+
+---
+
+KDE configure window behavior 
+KDE настройка поведения окон
+https://www.youtube.com/watch?v=PyyxQYkloLo
