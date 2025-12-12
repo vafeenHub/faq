@@ -360,3 +360,9 @@ sudo snap connect firefox:home
 sudo snap remove firefox
 sudo apt install firefox
 ```
+
+# new page before section tex
+
+Перенос страницы перед заголовком tex
+
+https://tex.stackexchange.com/questions/9497/start-new-page-with-each-section
