@@ -101,18 +101,18 @@ system("slmgr /ato");
 
 ---
 
-Развертывание офиса
+# Развертывание офиса
 https://learn.microsoft.com/en-us/deployoffice/ltsc2021/deploy
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
 ---
 
-Скачать 365
+# Скачать 365
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 
 ---
 
-Активация Office 2021
+# Активация Office 2021
 https://vk.com/video-168585760_456239180
 это файл `.cmd` 
 ```c
@@ -138,119 +138,119 @@ pause >nul
 
 ---
 
-Удалить элемент из автозагрузки
+# Удалить элемент из автозагрузки
 https://ichip.ru/sovety/ekspluataciya/kak-udalit-programmu-iz-avtozagruzki-windows-10-ili-dobavit-v-nee-704372
 
 ---
 
-Linux rice - типо интерфейс для линукса 
+# Linux rice - типо интерфейс для линукса 
 
 ---
 
-MacOS ISO
+# MacOS ISO
 https://shaadlife.com/download-macos-ventura-iso-file/
 
 ---
 
-Библиотеки Kotlin
+# Библиотеки Kotlin
 https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/collections/Collections.kt
 
 ---
 
-Собрать свой moodle / мудл
+# Собрать свой moodle / мудл
 https://hub.docker.com/r/bitnami/moodle
 
 ---
 
-Приложение не установлено 
+# Приложение не установлено 
 https://startandroid.ru/ru/uroki/vse-uroki-spiskom/223-urok-124-chto-takoe-package-dlja-prilozhenija.html
 
 ---
 
-Красивые стрелочки
+# Красивые стрелочки
 https://tproger.ru/experts/plugins-for-ide
 
 ---
 
-Restart activity  Перезагрузить приложение
+# Restart activity  Перезагрузить приложение
 https://gist.github.com/easterapps/7127ce0749cfce2edf083e55b6eecec5
 
 ---
 
-Реклама в приложениях / Убрать рекламу в приложениях 
+# Реклама в приложениях / Убрать рекламу в приложениях 
 https://androidinsider.ru/polezno-znat/kak-ubrat-reklamu-v-prilozheniyah-na-android-3-luchshih-sposoba.html/amp
 
 ---
 
-Release APK / Релиз 
+# Release APK / Релиз 
 https://www.youtube.com/watch?v=WPScAR_UPDE&ab_channel=BoostMyTool
 
 ---
 
-ICO / иконка для Android / mipmap
+# ICO / иконка для Android / mipmap
 https://www.youtube.com/watch?v=skRXfroPhGg&ab_channel=%D0%91%D1%83%D0%BB%D0%B0%D1%85%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9
 png 512\*512 
 
 ---
 
-Крутая камера для Windows 
+# Крутая камера для Windows 
 https://www.youtube.com/watch?v=gde7-EF9Msg
 
 ---
 
-Latex in VScode 
+# Latex in VScode 
 https://dsc.sgu.ru/helpful/latex/
 еще может помочь https://mathjiajia.github.io/vscode-and-latex/
 
 ---
 
-KSP ksp 
+# KSP ksp 
 https://developer.android.com/build/migrate-to-ksp#kts
 
 ---
 
-SQL
+# SQL
 https://gist.github.com/sagarnayak/3e49055f47d1403c5f365b4dfedcba96
 
 ---
 
-TextField textfield изменить цвет курсора и выделения 
+# TextField textfield изменить цвет курсора и выделения 
 https://stackoverflow.com/questions/76479701/android-jetpack-compose-cannot-change-basictextfield-cursor-thumb-color
 
 ---
 
-TimePicker 
+# TimePicker 
 [Jetpack Compose Time Picker (Material 3) (jetpackcomposeworld.com)](https://jetpackcomposeworld.com/jetpack-compose-time-picker-material-3/)
 
 ---
 
-Перейти на определенную строку
+# Перейти на определенную строку
 Windows: `Ctrl + G`
 
 ---
 
-Скопировать путь 
+# Скопировать путь 
 https://www.reddit.com/r/gnome/comments/wcvph1/easiest_way_to_copy_a_filepath_in_nautilus/
 
 ---
 
-VSCode перенос строк 
+# VSCode перенос строк 
 alt+Z 
 [Как включить перенос слов в Visual Studio Code? - Stack Overflow на русском](https://ru.stackoverflow.com/questions/1505697/%D0%9A%D0%B0%D0%BA-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C-%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B2-visual-studio-code#:~:text=%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8%2C%20%D0%B8%D0%BB%D0%B8%20%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8,%D1%8D%D1%82%D0%BE%20%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88%D0%B5%D0%B9%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0%20Enter.)
 
 ---
 
-Скачать видео с ютуба 
+# Скачать видео с ютуба 
 [Y2meta.app Converter Button for Google Chrome](https://y2meta.app/help/y2meta-converter-button-for-google-chrome)
 
 ---
 
-Как поменять поисковую систему Edge 
+# Как поменять поисковую систему Edge 
 https://yandex.ru/video/preview/8451099760366721741
 
 ---
 
-Конфигурация .vscode     Linux&Windows
+# Конфигурация .vscode     Linux&Windows
 Linux
 https://code.visualstudio.com/docs/cpp/config-linux
 Windows
@@ -258,12 +258,12 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 ---
 
-Монтирование флешек 
+# Монтирование флешек 
 https://losst.pro/formatirovanie-fleshki-v-linux
 
 ---
 
-Чтобы при открытии Android Studio не открывались ранее открытые проекты, вы можете изменить настройки среды разработки. Вот как это сделать:
+# Чтобы при открытии Android Studio не открывались ранее открытые проекты, вы можете изменить настройки среды разработки. Вот как это сделать:
 1. Откройте Android Studio.
 2. Перейдите в меню `File` -> `Settings` (или `Android Studio` -> `Preferences` для macOS).
 3. В открывшемся окне перейдите в раздел `Appearance & Behavior` -> `System Settings`.
@@ -271,19 +271,19 @@ https://losst.pro/formatirovanie-fleshki-v-linux
 
 ---
 
-paplay 
+# paplay 
 https://www.baeldung.com/linux/pc-speaker-beep-in-linux
 
 ---
 
-отключить горячие углы 
+# отключить горячие углы 
 ```bash 
 gsettings set org.gnome.desktop.interface enable-hot-corners false
 ```
 
 ---
 
-**Исключение файлов во время отладки с помощью gdb:**
+# **Исключение файлов во время отладки с помощью gdb:**
 - Добавьте следующий раздел в файл `launch.json` в параметр `setupCommands`:
     ```json
     "setupCommands": [
@@ -296,17 +296,19 @@ gsettings set org.gnome.desktop.interface enable-hot-corners false
 
 ---
 
-Линукс спящий режим 
+# Линукс спящий режим 
 https://fostips.com/automatic-suspend-idle-time-less-15-min-ubuntu-fedora-debian/
 
 ---
 
-Dev containers runs wsl during starting vscode
+# Dev containers runs wsl during starting vscode
 Dev contaienrs запускает wsl при старте vscode
 Отключить
 ![alt text](image.png)
 
-BuildSrc
+---
+
+# BuildSrc
 1. Создать обычный модуль
 2. В build.gradle.kts поместить 
 ```kotlin
@@ -325,7 +327,7 @@ repositories {
 
 --- 
 
-Spectable does not copy image to clipboard
+# Spectable does not copy image to clipboard
 
 Spectable не сохраняет изображение в буфер обмена 
 
@@ -333,7 +335,7 @@ https://askubuntu.com/questions/1205527/how-to-copy-area-screenshot-to-clipboard
 
 ---
 
-KDE configure window behavior
+# KDE configure window behavior
 
 KDE настройка поведения окон
 
@@ -341,7 +343,7 @@ https://www.youtube.com/watch?v=PyyxQYkloLo
 
 --- 
 
-Drag and Drop not working flatpak app 
+# Drag and Drop not working flatpak app 
 
 ```
 flatpak override --user --filesystem=home com.mocrosoft.Edge
