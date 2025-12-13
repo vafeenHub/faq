@@ -372,3 +372,11 @@ https://tex.stackexchange.com/questions/9497/start-new-page-with-each-section
 # Error: Во время загрузки http://ciscobinary.openh264.org/libopenh264-2.1.1-linux64.6.so.bz2: Server returned status 403
 
 https://debianforum.ru/index.php?PHPSESSID=faf69c1eb7baff399be67675578b9fee&msg=142402
+
+--- 
+
+# Read-only directories linux 
+
+```
+sudo chown -R $USER:$USER /home/a/
+```
